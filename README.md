@@ -1,4 +1,4 @@
-# Login System
+# Login System (no longer updated)
 1. First, download XAMPP from the following link - https://www.apachefriends.org/index.html
 2. Clone this repository to C:\xampp\htdocs\loginSystem (replace C:\xampp with ypur install location)
 3. Start Apache server and MySQL server on XAMPP
@@ -16,4 +16,5 @@
 8. Click Go
 9. Goto http://localhost/loginSystem/registration.php
 10. Bingo!!!
-Note: Login feature is not available yet, it'llbe finished by tomorrow
+Note: ~~Login feature is not available yet, it'll be finished by tomorrow~~
+Project abandoned as hackathon cancelled
